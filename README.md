@@ -369,18 +369,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/bookings-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/bookings-app/discussions)
-- **Email**: support@bookinghub.com
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [@DhanaBalan](https://github.com/DhanaBalan2001)
 
 </div>
