@@ -341,29 +341,6 @@ npm run build
 # Deploy dist folder to Netlify
 ```
 
-### Docker Deployment
-```dockerfile
-# Dockerfile included for containerization
-docker-compose up -d
-```
-
----
-
-## 📋 LinkedIn Project Summary
-
-**🏨 Full-Stack Hotel Booking Platform | React + Node.js + MongoDB**
-
-• **Frontend**: React 18, Ant Design, Material-UI, Stripe integration, responsive design
-• **Backend**: Node.js/Express, MongoDB/Mongoose, JWT authentication, RESTful APIs
-• **Features**: Real-time booking system, secure payments, user authentication, hotel search
-• **Security**: bcrypt password hashing, JWT tokens, CORS protection, input validation
-• **Tech Stack**: React Router, Axios, FontAwesome, React Date Range, Cookie Parser
-• **Database**: MongoDB with user, hotel, room, and booking models with relationships
-• **Payment**: Stripe integration for secure credit card processing and booking confirmation
-• **Architecture**: Component-based frontend, MVC backend pattern, context API state management
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
